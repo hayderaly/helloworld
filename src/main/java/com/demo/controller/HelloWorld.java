@@ -9,6 +9,6 @@ public class HelloWorld {
     @ResponseBody
     @RequestMapping("/hello")
     public  String hello() {
-        return  "Hello World...hi git";
+        return  "Hello World...hi git..hi SSH";
     }
 }
