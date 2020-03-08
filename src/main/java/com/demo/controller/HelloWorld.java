@@ -9,6 +9,7 @@ public class HelloWorld {
     @ResponseBody
     @RequestMapping("/hello")
     public  String hello() {
+        System.out.println("----------merge info-----------");
         return  "Hello World...hi git..hello github";
     }
 }
