@@ -10,6 +10,6 @@ public class HelloWorld {
     @RequestMapping("/hello")
     public  String hello() {
         System.out.println("----------merge info-----------");
-        return  "Hello World...hi git..hi SSH";
+        return  "Hello World...hi git..hi SSH..not commit";
     }
 }
