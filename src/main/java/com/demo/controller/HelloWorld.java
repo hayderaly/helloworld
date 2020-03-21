@@ -14,6 +14,7 @@ public class HelloWorld {
                 "" +
                 "develop branch"+
                 "master branch  again" +
-                "edit message";
+                "edit message" +
+                "develop to master";
     }
 }
