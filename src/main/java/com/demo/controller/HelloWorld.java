@@ -19,6 +19,7 @@ public class HelloWorld {
                 "develop to master" +
                 "test stash" +
                 "master edit" +
+                "another edit"+
                 "check out";
     }
 }
