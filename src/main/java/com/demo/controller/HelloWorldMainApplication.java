@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloWorldMainApplication {
     public static void main(String[] args){
         //Spring应用启动起来
+        //rebase test
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }

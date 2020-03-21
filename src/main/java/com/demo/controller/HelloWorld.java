@@ -21,6 +21,7 @@ public class HelloWorld {
                 "master edit" +
                 "another edit"+
                 "check out" +
-                "merge into master";
+                "merge into master" +
+                "rebase";
     }
 }
