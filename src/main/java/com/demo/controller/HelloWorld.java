@@ -20,6 +20,7 @@ public class HelloWorld {
                 "test stash" +
                 "master edit" +
                 "another edit"+
-                "check out";
+                "check out" +
+                "merge into master";
     }
 }
