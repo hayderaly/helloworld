@@ -8,6 +8,7 @@ public class HelloWorldMainApplication {
     public static void main(String[] args){
         //Spring应用启动起来
         //rebase test
+        //origin or local test
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
