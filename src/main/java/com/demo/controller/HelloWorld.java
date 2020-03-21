@@ -15,6 +15,7 @@ public class HelloWorld {
                 "develop branch"+
                 "master branch  again" +
                 "edit message" +
+                "insert test" +
                 "develop to master";
     }
 }
