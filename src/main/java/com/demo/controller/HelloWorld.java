@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("----------merge info-----github desk----to master branch--");
         return  "Hello World...hi git..hi SSH..hello SSH github merge ok?..username test..reload" +
                 "" +
-                "develop branch";
+                "develop branch"+
+                "master branch  again";
     }
 }
