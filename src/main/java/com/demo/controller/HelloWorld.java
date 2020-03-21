@@ -13,6 +13,7 @@ public class HelloWorld {
         return  "Hello World...hi git..hi SSH..hello SSH github merge ok?..username test..reload" +
                 "" +
                 "develop branch"+
-                "master branch  again";
+                "master branch  again" +
+                "edit message";
     }
 }
