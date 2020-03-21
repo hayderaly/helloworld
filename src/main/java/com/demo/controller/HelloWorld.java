@@ -17,6 +17,7 @@ public class HelloWorld {
                 "edit message" +
                 "insert test" +
                 "develop to master" +
-                "test stash";
+                "test stash" +
+                "master edit";
     }
 }
