@@ -16,6 +16,7 @@ public class HelloWorldMainApplication {
         //edit message test
         //conflict test
         //start push
+        //insert into
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
