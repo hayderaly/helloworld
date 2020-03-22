@@ -9,6 +9,7 @@ public class HelloWorldMainApplication {
         //Spring应用启动起来
         //rebase test
         //origin or local test
+        //new user
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
