@@ -15,7 +15,7 @@ public class HelloWorldMainApplication {
         //hayder
         //edit message test
         //conflict test
-        //insert into one
+        //start push
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
