@@ -16,7 +16,12 @@ public class HelloWorldMainApplication {
         //edit message test
         //conflict test
         //start push
+        //insert into
         //again
+        //rebase1
+        //rebase2
+        //rebase3
+        //skdjhie
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
